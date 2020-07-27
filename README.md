@@ -1,6 +1,6 @@
 ### Changing African Ecosystem One Line Of Code At A Time🚀
 
-Hi, I'm a software engineer and a [technical writer](https://dev.to/cpuram1) based in Nigeria 😄. I'm passionate about creating technology to elevate people, an advocate for building open-source projects, and a long life learner ⚡.
+Hi, I'm a software engineer and a [technical writer](https://dev.to/cpuram1) based in Nigeria 😄. I'm passionate about creating technology to elevate people. I'm also an advocate for building open-source projects, and a long life learner ⚡.
 
 - 🔭 I’m currently working on mentoring people coming into tech.
 - 🌱 I’m currently learning how to build massively parallel, concurrent and distributed systems for financial applications.
