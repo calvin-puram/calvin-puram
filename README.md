@@ -1,4 +1,4 @@
-### Changing African Ecosystem One Line Of Code at a Time🚀
+### Changing African Ecosystem One Line Of Code At A Time🚀
 
 Hi, I'm a software engineer and a [technical writer](https://dev.to/cpuram1) based in Nigeria 😄. I'm passionate about creating technology to elevate people, an advocate for building open-source projects, and a long life learner ⚡.
 
