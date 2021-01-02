@@ -3,7 +3,7 @@
 Hi, I'm a software engineer and a [content creator](https://calvinpuram.com/) based in Nigeria 😄. I'm passionate about creating technology to elevate people. I'm also an advocate for building open-source projects, and a long life learner ⚡.
 
 
-- 🌱 I’m currently learning how to build massively parallel, concurrent and distributed systems for financial applications.
+- 🌱 I’m currently learning how to build massively parallel, concurrent and distributed systems with Nodejs/Reactjs.
 - 👯 I’m looking to collaborate on showcasing African tech talent to the world.
 - 💬 Ask me about React, Nodejs, JavaScript, Vuejs, agile teams, CI/CD.
 - 📫 How to reach me: puram.calvin@gmail.com
