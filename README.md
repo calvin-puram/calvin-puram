@@ -4,6 +4,7 @@ Hi, I'm a software engineer and a [content creator](https://calvinpuram.com/) ba
 
 
 - 🌱 I’m currently learning how to build massively parallel, concurrent and distributed systems with Nodejs/Reactjs.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on showcasing African tech talent to the world.
 - 💬 Ask me about React, Nodejs, JavaScript, Vuejs, agile teams, CI/CD.
 - 📫 How to reach me: puram.calvin@gmail.com
@@ -11,4 +12,23 @@ Hi, I'm a software engineer and a [content creator](https://calvinpuram.com/) ba
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up I’ve gone to at least five schools that I can rememeber.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calvin-puram&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with Gitlab CI/CD Pipeline, DevOps for Beginners](https://calvinpuram.com/getting-started-with-gitlab-ci-cd-pipelines-devops-for-beginners/)
+- [Securing Nodejs Web Application](https://calvinpuram.com/securing-nodejs-web-application/)
+- [Demystifying Reactjs Rendering Behaviour](https://calvinpuram.com/demystifying-reactjs-rendering-behaviour/)
+- [Improving Nodejs Performance Through Clustering (part 2)](https://calvinpuram.com/improving-nodejs-performance-through-clustering-part-2/)
+- [Improving Nodejs Performance Through Clustering (part 1)](https://calvinpuram.com/improving-nodejs-performance-through-clustering-part-1/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://calvinpuram.com/)
+<br/>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=calvin-puram&show_icons=true&hide_border=true" />
+
+</details>
