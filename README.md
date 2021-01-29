@@ -16,11 +16,11 @@ Hi, I'm a software engineer and a [content creator](https://calvinpuram.com/) ba
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building An Application That Scale](https://calvinpuram.com/building-an-application-that-scale/)
 - [Getting Started with Gitlab CI/CD Pipeline, DevOps for Beginners](https://calvinpuram.com/getting-started-with-gitlab-ci-cd-pipelines-devops-for-beginners/)
 - [Securing Nodejs Web Application](https://calvinpuram.com/securing-nodejs-web-application/)
 - [Demystifying Reactjs Rendering Behaviour](https://calvinpuram.com/demystifying-reactjs-rendering-behaviour/)
 - [Improving Nodejs Performance Through Clustering (part 2)](https://calvinpuram.com/improving-nodejs-performance-through-clustering-part-2/)
-- [Improving Nodejs Performance Through Clustering (part 1)](https://calvinpuram.com/improving-nodejs-performance-through-clustering-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://calvinpuram.com/)
