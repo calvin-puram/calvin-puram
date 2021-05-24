@@ -22,9 +22,4 @@ Hi, I'm a software engineer and a [content creator](https://calvinpuram.com/) ba
 ➡️ [more blog posts...](https://calvinpuram.com/)
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=calvin-puram&show_icons=true&hide_border=true" />
-
-</details>
